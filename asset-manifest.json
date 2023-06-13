@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/points-manager/static/css/main.cfb95388.css",
-    "main.js": "/points-manager/static/js/main.75af4641.js",
+    "main.css": "/points-manager/static/css/main.0ca73905.css",
+    "main.js": "/points-manager/static/js/main.04afcaeb.js",
     "static/js/787.e4629950.chunk.js": "/points-manager/static/js/787.e4629950.chunk.js",
     "index.html": "/points-manager/index.html",
-    "main.cfb95388.css.map": "/points-manager/static/css/main.cfb95388.css.map",
-    "main.75af4641.js.map": "/points-manager/static/js/main.75af4641.js.map",
+    "main.0ca73905.css.map": "/points-manager/static/css/main.0ca73905.css.map",
+    "main.04afcaeb.js.map": "/points-manager/static/js/main.04afcaeb.js.map",
     "787.e4629950.chunk.js.map": "/points-manager/static/js/787.e4629950.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfb95388.css",
-    "static/js/main.75af4641.js"
+    "static/css/main.0ca73905.css",
+    "static/js/main.04afcaeb.js"
   ]
 }
