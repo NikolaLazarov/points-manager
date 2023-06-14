@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/points-manager/static/css/main.0ca73905.css",
+    "main.css": "/points-manager/static/css/main.2690278b.css",
     "main.js": "/points-manager/static/js/main.8ad05a38.js",
     "static/js/787.e4629950.chunk.js": "/points-manager/static/js/787.e4629950.chunk.js",
     "index.html": "/points-manager/index.html",
-    "main.0ca73905.css.map": "/points-manager/static/css/main.0ca73905.css.map",
+    "main.2690278b.css.map": "/points-manager/static/css/main.2690278b.css.map",
     "main.8ad05a38.js.map": "/points-manager/static/js/main.8ad05a38.js.map",
     "787.e4629950.chunk.js.map": "/points-manager/static/js/787.e4629950.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ca73905.css",
+    "static/css/main.2690278b.css",
     "static/js/main.8ad05a38.js"
   ]
 }
